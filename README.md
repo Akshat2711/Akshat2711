@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Akshat2711
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on HTML ,CSS,javascript,c,python,mysql
-- 📫 How to reach me linkedin-https://www.linkedin.com/in/akshat-srivastava-5a52b1240/
+# Hi there! 👋 I'm Akshat2711
+
+- 🌱 I'm passionate about coding and love working with C++, C, HTML, JS, MySQL, CSS, and Python.
+- 🚀 Connect with me on LinkedIn(https://www.linkedin.com/in/akshat-srivastava-5a52b1240/) and Twitter(@AkshatSri2704).
 
 
 <!---
